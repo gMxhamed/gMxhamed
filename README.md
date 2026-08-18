@@ -4,13 +4,13 @@ Ingénieur DevOps / Cloud & Infrastructure, basé en France. Je viens de termine
 
 ## 🔧 Stack
 
-**Cloud & IaC** : AWS · Azure · Terraform · Ansible · Packer
-**Conteneurisation** : Docker · Kubernetes
-**CI/CD** : Jenkins · GitHub Actions
-**Système & Réseau** : Linux (Debian/Ubuntu/RedHat) · Windows Server · Active Directory · Cisco
-**Sécurité & Identité** : Wazuh (SIEM/XDR) · Authentik (SSO) · IAM · OPNsense · WireGuard
-**Monitoring** : Prometheus · Grafana · Zabbix
-**Scripting** : Bash · PowerShell · Python
+**Cloud & IaC** : AWS · Azure · Terraform · Ansible · Packer.
+**Conteneurisation** : Docker · Kubernetes.
+**CI/CD** : Jenkins · GitHub Actions.
+**Système & Réseau** : Linux (Debian/Ubuntu/RedHat) · Windows Server · Active Directory · Cisco.
+**Sécurité & Identité** : Wazuh (SIEM/XDR) · Authentik (SSO) · IAM · OPNsense · WireGuard.
+**Monitoring** : Prometheus · Grafana · Zabbix.
+**Scripting** : Bash · PowerShell · Python.
 
 ## 🚀 Projets mis en avant
 
