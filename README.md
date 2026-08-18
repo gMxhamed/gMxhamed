@@ -14,7 +14,7 @@ Ingénieur DevOps / Cloud & Infrastructure, basé en France. Je viens de termine
 
 ## 🚀 Projets mis en avant
 
-- **[AZ-Terraform](https://github.com/gMxhamed/AZ-Terraform)** — Provisioning d'infrastructure Azure avec Terraform, architecture modulaire.
+- **[azure-terraform-infra](https://github.com/gMxhamed/AZ-Terraform)** — Provisioning d'infrastructure Azure avec Terraform, architecture modulaire.
 - **[webapp-cicd-pipeline](https://github.com/gMxhamed/webapp-cicd-pipeline)** — Pipeline CI/CD complet : build Docker, tests, déploiement Kubernetes via Jenkins.
 - *(à venir)* **monitoring-stack** — Stack d'observabilité Prometheus/Grafana avec dashboards et alerting.
 
