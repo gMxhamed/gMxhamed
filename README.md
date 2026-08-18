@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salut, moi c'est Mohammed 👋
 
-<!--
-**gMxhamed/gMxhamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingénieur DevOps / Cloud & Infrastructure, basé en France. Je viens de terminer un Master expert Cloud, Sécurité & Infrastructure à YNOV Campus, avec 3 stages en administration système, réseau et DevOps.
 
-Here are some ideas to get you started:
+## 🔧 Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud & IaC** : AWS · Azure · Terraform · Ansible · Packer
+**Conteneurisation** : Docker · Kubernetes
+**CI/CD** : Jenkins · GitHub Actions
+**Système & Réseau** : Linux (Debian/Ubuntu/RedHat) · Windows Server · Active Directory · Cisco
+**Sécurité & Identité** : Wazuh (SIEM/XDR) · Authentik (SSO) · IAM · OPNsense · WireGuard
+**Monitoring** : Prometheus · Grafana · Zabbix
+**Scripting** : Bash · PowerShell · Python
+
+## 🚀 Projets mis en avant
+
+- **[AZ-Terraform](https://github.com/gMxhamed/AZ-Terraform)** — Provisioning d'infrastructure Azure avec Terraform, architecture modulaire.
+- **[webapp-cicd-pipeline](https://github.com/gMxhamed/webapp-cicd-pipeline)** — Pipeline CI/CD complet : build Docker, tests, déploiement Kubernetes via Jenkins.
+- *(à venir)* **monitoring-stack** — Stack d'observabilité Prometheus/Grafana avec dashboards et alerting.
+
+## 📫 Me contacter
+
+- Email : med.guendouz.pro@gmail.com
+- LinkedIn : https://www.linkedin.com/in/med-guendouz/
+
+---
+*CV et candidatures DevOps/Cloud — disponible pour opportunités en France.*
